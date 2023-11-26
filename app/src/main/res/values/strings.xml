@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">PemulaAndroid</string>
+
+    <string name="animal_name">Animal Name</string>
+    <string name="animal_desc">Description</string>
+
+    <!--    Data Nama Animal-->
+    <string-array name="data_name_animal">
+        <item>Ant</item>
+        <item>Bee</item>
+        <item>Cat</item>
+        <item>Clownfish</item>
+        <item>Crow</item>
+        <item>Dog</item>
+        <item>Hamster</item>
+        <item>Horse</item>
+        <item>Jellyfish</item>
+        <item>Lion</item>
+        <item>Owl</item>
+        <item>Sea Horse</item>
+    </string-array>
+
+    <!--    Deskripsi Animal-->
+    <string-array name="data_desc_animal">
+        <item>Insect</item>
+        <item>Insect</item>
+        <item>Mammal</item>
+        <item>Sea Animal</item>
+        <item>Aves</item>
+        <item>Mammal</item>
+        <item>Mammal</item>
+        <item>Mammal</item>
+        <item>Sea Animal</item>
+        <item>Mammal</item>
+        <item>Aves</item>
+        <item>Sea Animal</item>
+    </string-array>
+
+    <!--    Image Animal-->
+    <integer-array name="data_img_animal">
+        <item>@drawable/ant_animal</item>
+        <item>@drawable/bee_animal</item>
+        <item>@drawable/cat_animal</item>
+        <item>@drawable/clownfish_animal</item>
+        <item>@drawable/crow_animal</item>
+        <item>@drawable/dog_animal</item>
+        <item>@drawable/hamster_animal</item>
+        <item>@drawable/horse_animal</item>
+        <item>@drawable/jellyfish_animal</item>
+        <item>@drawable/lion_animal</item>
+        <item>@drawable/owl_animal</item>
+        <item>@drawable/seahorse_animal</item>
+    </integer-array>
+
+    <string-array name="data_extra_animal">
+        <item>Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera.</item>
+        <item>Bees are winged insects closely related to wasps and ants, known for their roles in pollination and, in the case of the best-known bee species, the western honey bee, for producing honey.</item>
+        <item>Cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family.</item>
+        <item>Clownfish or anemonefish are fishes from the subfamily Amphiprioninae in the family Pomacentridae.</item>
+        <item>A crow is a bird of the genus Corvus, or more broadly a synonym for all of Corvus. The word "crow" is used as part of the common name of many species.</item>
+        <item>The dog is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct Pleistocene wolves, and the modern wolf is the dog\'s nearest living relative.</item>
+        <item>Hamsters are rodents belonging to the subfamily Cricetinae, which contains 19 species classified in seven genera. They have become established as popular small pets. The best-known species of hamster is the golden or Syrian hamster, which is the type most commonly kept as pets.</item>
+        <item>The horse is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant subspecies of Equus ferus.</item>
+        <item>Jellyfish are mainly free-swimming marine animals with umbrella-shaped bells and trailing tentacles, although a few are anchored to the seabed by stalks rather than being mobile.</item>
+        <item>The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body; short, rounded head; round ears; and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane.</item>
+        <item>Owls are birds from the order Strigiformes, which includes over 200 species of mostly solitary and nocturnal birds of prey typified by an upright stance, a large, broad head, binocular vision, binaural hearing, sharp talons, and feathers adapted for silent flight.</item>
+        <item>A seahorse is any of 46 species of small marine fish in the genus Hippocampus. "Hippocampus" comes from the Ancient Greek hippókampos, itself from híppos meaning "horse" and kámpos meaning "sea monster" or "sea animal".</item>
+    </string-array>
+
+    <string-array name="data_tags_animal">
+        <item>The longest living insects</item>
+        <item>A pound honey is made by 2 million flower visits</item>
+        <item>They make high-pitched, baby-like meows</item>
+        <item>They are small animals</item>
+        <item>Crows are super smart</item>
+        <item>No matter how you\'re feeling, a little dog gonna love you</item>
+        <item>They freeze for no apparent reason</item>
+        <item>Horses can sleep standing up</item>
+        <item>Jellyfish aren\'t really fish</item>
+        <item>They hunt during storms</item>
+        <item>Owls\' Eyes Are Actually Tubes</item>
+        <item>Seahorses are crazy dexterous</item>
+    </string-array>
+
+    <string-array name="data_class_animal">
+        <item>Insecta</item>
+        <item>Insecta</item>
+        <item>Mammalia</item>
+        <item>Actinopterygii</item>
+        <item>Aves</item>
+        <item>Mammalia</item>
+        <item>Mammalia</item>
+        <item>Mammalia</item>
+        <item>Scyphozoa</item>
+        <item>Mammalia</item>
+        <item>Aves</item>
+        <item>Actinopterygii</item>
+    </string-array>
+
+    <string-array name="data_order_animal">
+        <item>Hymenoptera</item>
+        <item>Hymenoptera</item>
+        <item>Carnivora</item>
+        <item>Perciformes</item>
+        <item>Passeriformes</item>
+        <item>Carnivora</item>
+        <item>Rodentia</item>
+        <item>Perissodactyla</item>
+        <item>Scyphozoa</item>
+        <item>Carnivora</item>
+        <item>Strigiformes</item>
+        <item>Syngnathiformes</item>
+    </string-array>
+
+    <string-array name="data_family_animal">
+        <item>Formicidae</item>
+        <item>Apidae</item>
+        <item>Felidae</item>
+        <item>Pomacentridae</item>
+        <item>Corvidae</item>
+        <item>Canidae</item>
+        <item>Cricetidae</item>
+        <item>Equidae</item>
+        <item>Various families</item>
+        <item>Felidae</item>
+        <item>Various families</item>
+        <item>Syngnathidae</item>
+    </string-array>
+
+    <!--    menu_main.xml-->
+    <string name="list_menu">List</string>
+    <string name="grid_menu">Grid</string>
+
+    <string name="name_about">Carissa Chandra</string>
+    <string name="email_about">carissa.tjan03@gmail.com</string>
+    <string name="classify">Classification</string>
+    <string name="family_animal">Family</string>
+    <string name="order_animal">Order</string>
+    <string name="class_animal">Class</string>
+    <string name="share_animal_details">Share Animal Details</string>
+</resources>

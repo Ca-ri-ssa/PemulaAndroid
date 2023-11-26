@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color> //on primary light
+    <color name="orange_light">#F49D1A</color>
+    <color name="brown_light">#715A41</color>
+    <color name="green_light">#55633C</color>
+    <color name="colorSub">#5A5A5A</color>
+    <color name="orange_dark">#FFB963</color>
+    <color name="op_orange_dark">#472A00</color>
+    <color name="brown_dark">#DFC1A2</color>
+    <color name="os_brown_dark">#3F2D17</color>
+    <color name="green_dark">#BCCD9D</color>
+    <color name="ot_green_dark">#283513</color>
+</resources>
